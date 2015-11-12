@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build -t pg-scott-nd .
+docker build -t pocztarski/pg-scott-nd .
