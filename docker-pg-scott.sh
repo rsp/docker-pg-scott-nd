@@ -1,6 +1,6 @@
 #!/bin/sh
 
-b=pg-scott
+b=pg-scott-nd
 s=$b.sql
 d=docker-$b
 
